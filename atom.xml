@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-02T07:13:44.890Z</updated>
+  <updated>2016-11-11T08:55:28.424Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,97 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>58集团-2017校招-后台开发工程师-面经</title>
+    <link href="http://yoursite.com/2016/11/11/experience/"/>
+    <id>http://yoursite.com/2016/11/11/experience/</id>
+    <published>2016-11-11T06:50:50.000Z</published>
+    <updated>2016-11-11T08:55:28.424Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/img/58.png" alt=""></p>
+<h3 id="自报家门"><a href="#自报家门" class="headerlink" title="自报家门"></a>自报家门</h3><p>仓鼠君是双非普通一本出身的渣渣本科生，软件工程专业，无互联网公司实习经历，准备互联网秋季校招已是八月末（吐槽：不得不说环境和信息差带来的劣势，都说技术行业英雄不问出路，首先你得是英雄，悖论啊），只拿到了批发价。</p>
+<div align="center"><br><img src="/assets/img/cai.jpg" alt=""><br></div>
+
+<h3 id="参加宣讲会"><a href="#参加宣讲会" class="headerlink" title="参加宣讲会"></a>参加宣讲会</h3><p>9.17号参加了58集团在北京理工大学举办的宣讲会，现场扫码报名，拿到电脑在线笔试机会。</p>
+<blockquote>
+<p>现场发了些小礼物，58现在主打产品之一是 <a href="http://zhuanzhuan.58.com/" target="_blank" rel="external">转转</a><br>扫码注册送了好多瓶脉动，一脸懵逼。</p>
+</blockquote>
+<h3 id="在线笔试"><a href="#在线笔试" class="headerlink" title="在线笔试"></a>在线笔试</h3><p>今年年58的在线笔试比较良心的一点是人工阅卷</p>
+<blockquote>
+<p>错过了阿里、网易校招,而新美大、百度、今日头条、滴滴的笔试全挂了。<br>生无可恋的手撕代码，渣渣在线编译器，<br>如果想过笔试，3道编程题至少100% ac两道,<br>百度笔试我a了两道还是挂了，笔试没过或错过但有底气的就试着去霸面吧</p>
+</blockquote>
+<p>题型包括选择、编程、简答，考察c/c++/java基础、计算机网络、操作系统、LINUX命令、算法、数据结构…<br>推荐 <a href="http://www.nowcoder.com" target="_blank" rel="external">牛客网</a>，刷leetcode和剑指offer上的算法题。<br>题目参考 牛客网<a href="http://www.nowcoder.com/test/811355/summary" target="_blank" rel="external">58同城2016研发工程师笔试题</a></p>
+<h3 id="技术一面"><a href="#技术一面" class="headerlink" title="技术一面"></a>技术一面</h3><p>序：收到面试通知的时候，正好学校那还有点事，就回去了，给hr回复邮件看看是否可以推迟面试，一直拖到了十月中旬，趁十月一恶补了一下基础知识，hr听说我没在北京给安排的视频面试。<br>技术一面面试官是为和蔼的中年大叔</p>
+<p><strong>①自我介绍</strong></p>
+<p><strong>②说说做过的项目？有什么技术难点？如何优化的？如何处理高并发，有没有用负载均衡？</strong></p>
+<blockquote>
+<p>我主要准备了两个学校做的小东西，一个是SSH框架搭建的java web简易购物网站，<br>另一个是入门Android和JAVA时做的音乐推荐APP。<br>对方好像并不是搞JAVA的，对java web不感兴趣，我就讲了讲做的入门级APP，然而并没有高并<br>发的性能优化,也木有缓冲层，只讲了讲多线程、json的东西。<br>而APP呢，当时是用2G的腾讯云服务器跑了2个月，然后就没有然后了。</p>
+</blockquote>
+<p><strong>③算法：两个栈实现一个队列</strong></p>
+<p><strong>④Linux基本命令，如何查看网关，写没写过shell脚本</strong></p>
+<blockquote>
+<p>在下Linux渣渣，直接说不会<br><strong>⑤操作系统相关，解释一下同步和互斥</strong></p>
+</blockquote>
+<p><strong>⑥java集合类，ArrayList和LinkedList底层实现区别</strong></p>
+<p><strong>⑦java方法传值是值传递还是参数传递，例如传个int值，传个ArrayList集合</strong></p>
+<p><strong>⑧如何理解线程安全？HashMap和ConcurrentHashMap的区别</strong></p>
+<p><strong>⑨数据库用过哪些？sql语句中,order by的用法</strong></p>
+<p><strong>⑩内部排序算法对比、是否稳定、适用条件</strong></p>
+<blockquote>
+<p>我主要讲了快速排序的算法实现、是否稳定、时间复杂度、空间复杂度、优化、排序对比直接插入<br>排序和堆排序</p>
+</blockquote>
+<p><strong>有没有什么想问我的</strong></p>
+<h3 id="技术二面"><a href="#技术二面" class="headerlink" title="技术二面"></a>技术二面</h3><p>面试官是二十七八的样子，微胖，可能因为是中午1点面的第一个，他话也不多</p>
+<p><strong>①自我介绍</strong></p>
+<p><strong>②说说做过的项目</strong></p>
+<blockquote>
+<p>这里我说了Http的post请求通过FutureTask线程类发送并返回服务器端的json串，讲了一下FutureTask类相对于直接继承Thread类或实现Runnable接口的区别，接着就是一系列多线程问题。</p>
+</blockquote>
+<p><strong>③说说多线程的优势和缺点、如何理解线程安全</strong></p>
+<p><strong>④synchronized修饰类和方法的区别</strong></p>
+<p><strong>⑤HashMap和ConcurrentHashMap实现区别</strong></p>
+<blockquote>
+<p>参考 <a href="http://tech.meituan.com/java-hashmap.html" target="_blank" rel="external">Java 8系列之重新认识HashMap</a></p>
+</blockquote>
+<p><strong>⑥如何解决哈希冲突</strong></p>
+<blockquote>
+<p>因为java集合类重点看了HashMap的底层实现，上面说了一句HashMap解决哈希冲突的一个方式<br>是采用链地址法（数组+链表）解决。这里讲了一下数据结构课本上看到的，开放定址法和再哈希。</p>
+</blockquote>
+<p><strong>⑦jvm了解吗？讲讲内存模型，gc机制如何实现，老年代如何回收垃圾对象？</strong></p>
+<blockquote>
+<p>参考 <a href="http://www.cnblogs.com/hnrainll/archive/2013/11/06/3410042.html" target="_blank" rel="external">Java 内存区域和GC机制</a></p>
+</blockquote>
+<p><strong>⑧sql语句中group by的用法，sql语句优化</strong></p>
+<p><strong>⑨Linux基本命令</strong></p>
+<p><strong>⑩有没有看过开源项目源代码</strong></p>
+<p><strong>有没有什么想问我的</strong></p>
+<h3 id="hr面"><a href="#hr面" class="headerlink" title="hr面"></a>hr面</h3><p>基本就是聊家常</p>
+<p><strong>①自我介绍，学校、专业、哪的人、啥时候毕业，为啥不参加9月份的面试</strong></p>
+<p><strong>②在学校做过哪些项目?</strong></p>
+<p><strong>③学习成绩、奖学金、获奖情况</strong></p>
+<p><strong>④手上的其他offer</strong></p>
+<p><strong>⑤薪资要求</strong></p>
+<p><strong>⑥是否接受实习</strong></p>
+<p><strong>⑦非技术类其他方面的特长</strong></p>
+<p><strong>⑧对58集团的了解程度、意向部门</strong></p>
+<p><strong>有没有什么想问我的</strong></p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>整个过程持续了一个多月，累觉不爱，校招真是太折磨菜鸟了，一路被虐，应届生属于弱势群体，还是建议准备工作的学弟学妹们在大三提前了解春招实习，转正保底容易一些，还能增加项目经验。<br>面试的话，掌握 <strong>主动权</strong> 是提高成功率的好办法。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/img/58.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;自报家门&quot;&gt;&lt;a href=&quot;#自报家门&quot; class=&quot;headerlink&quot; title=&quot;自报家门&quot;&gt;&lt;/a&gt;自报家门&lt;/h3&gt;&lt;p&gt;仓鼠君是双非普通一本出身的渣渣本科
+    
+    </summary>
+    
+    
+      <category term="面经" scheme="http://yoursite.com/tags/%E9%9D%A2%E7%BB%8F/"/>
+    
+      <category term="总结" scheme="http://yoursite.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>在每一个不曾起舞的日子 都是对生命的辜负</title>
@@ -115,7 +206,7 @@
 <h2 id="关于收费"><a href="#关于收费" class="headerlink" title="关于收费"></a>关于收费</h2><p><strong>马克飞象</strong>为新用户提供 10 天的试用期，试用期过后需要<a href="maxiang.info/vip.html">续费</a>才能继续使用。未购买或者未及时续费，将不能同步新的笔记。之前保存过的笔记依然可以编辑。</p>
 <h2 id="反馈与建议"><a href="#反馈与建议" class="headerlink" title="反馈与建议"></a>反馈与建议</h2><ul>
 <li>微博：<a href="http://weibo.com/u/2788354117" target="_blank" rel="external">@马克飞象</a>，<a href="http://weibo.com/ggock" title="开发者个人账号" target="_blank" rel="external">@GGock</a></li>
-<li>邮箱：<a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x68;&#x75;&#x73;&#116;&#x67;&#111;&#99;&#107;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x68;&#x75;&#x73;&#116;&#x67;&#111;&#99;&#107;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>邮箱：<a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x68;&#x75;&#115;&#116;&#103;&#111;&#x63;&#107;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;">&#x68;&#x75;&#115;&#116;&#103;&#111;&#x63;&#107;&#x40;&#103;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#x6d;</a></li>
 </ul>
 <hr>
 <p>感谢阅读这份帮助文档。请点击右上角，绑定印象笔记账号，开启全新的记录与分享体验吧。</p>
