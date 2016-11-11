@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-11T09:00:39.466Z</updated>
+  <updated>2016-11-11T09:07:54.486Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://yoursite.com/2016/11/11/experience/"/>
     <id>http://yoursite.com/2016/11/11/experience/</id>
     <published>2016-11-11T06:50:50.000Z</published>
-    <updated>2016-11-11T09:00:39.466Z</updated>
+    <updated>2016-11-11T09:07:54.486Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/assets/img/58.png" alt=""></p>
-<h3 id="自报家门"><a href="#自报家门" class="headerlink" title="自报家门"></a>自报家门</h3><p>仓鼠君是双非普通一本出身的渣渣本科生，软件工程专业，无互联网公司实习经历，准备互联网秋季校招已是八月末（吐槽：不得不说环境和信息差带来的劣势），面的比较晚只拿到了批发价。</p>
+<h3 id="自报家门"><a href="#自报家门" class="headerlink" title="自报家门"></a>自报家门</h3><p>仓鼠君是双非普通一本出身的渣渣本科生，软件工程专业，无互联网公司实习经历，准备互联网秋季校招已是八月末（吐槽：不得不说环境和信息差带来的劣势），面的比较晚准备不足只拿到了批发价，看官们轻喷。</p>
 <div align="center"><br><img src="/assets/img/cai.jpg" alt=""><br></div>
 
-<h3 id="参加宣讲会"><a href="#参加宣讲会" class="headerlink" title="参加宣讲会"></a>参加宣讲会</h3><p>9.17号参加了58集团在北京理工大学举办的宣讲会，现场扫码报名，拿到电脑在线笔试机会。</p>
+<h3 id="参加宣讲会"><a href="#参加宣讲会" class="headerlink" title="参加宣讲会"></a>参加宣讲会</h3><p>9.17号参加了58集团在北京理工大学举办的宣讲会，现场扫码报名，拿到在线笔试机会。</p>
 <blockquote>
 <p>现场发了些小礼物，58现在主打产品之一是 <a href="http://zhuanzhuan.58.com/" target="_blank" rel="external">转转</a><br>扫码注册送了好多瓶脉动，一脸懵逼。</p>
 </blockquote>
@@ -44,8 +44,9 @@
 <p><strong>③算法：两个栈实现一个队列</strong></p>
 <p><strong>④Linux基本命令，如何查看网关，写没写过shell脚本</strong></p>
 <blockquote>
-<p>在下Linux渣渣，直接说不会<br><strong>⑤操作系统相关，解释一下同步和互斥</strong></p>
+<p>在下Linux渣渣，直接说不会</p>
 </blockquote>
+<p><strong>⑤操作系统相关，解释一下同步和互斥</strong></p>
 <p><strong>⑥java集合类，ArrayList和LinkedList底层实现区别</strong></p>
 <p><strong>⑦java方法传值是值传递还是参数传递，例如传个int值，传个ArrayList集合</strong></p>
 <p><strong>⑧如何理解线程安全？HashMap和ConcurrentHashMap的区别</strong></p>
@@ -84,6 +85,9 @@
 <p><strong>②在学校做过哪些项目?</strong></p>
 <p><strong>③学习成绩、奖学金、获奖情况</strong></p>
 <p><strong>④手上的其他offer</strong></p>
+<blockquote>
+<p>互联网公司的真木有</p>
+</blockquote>
 <p><strong>⑤薪资要求</strong></p>
 <p><strong>⑥是否接受实习</strong></p>
 <p><strong>⑦非技术类其他方面的特长</strong></p>
@@ -206,7 +210,7 @@
 <h2 id="关于收费"><a href="#关于收费" class="headerlink" title="关于收费"></a>关于收费</h2><p><strong>马克飞象</strong>为新用户提供 10 天的试用期，试用期过后需要<a href="maxiang.info/vip.html">续费</a>才能继续使用。未购买或者未及时续费，将不能同步新的笔记。之前保存过的笔记依然可以编辑。</p>
 <h2 id="反馈与建议"><a href="#反馈与建议" class="headerlink" title="反馈与建议"></a>反馈与建议</h2><ul>
 <li>微博：<a href="http://weibo.com/u/2788354117" target="_blank" rel="external">@马克飞象</a>，<a href="http://weibo.com/ggock" title="开发者个人账号" target="_blank" rel="external">@GGock</a></li>
-<li>邮箱：<a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x68;&#x75;&#115;&#116;&#103;&#111;&#99;&#x6b;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x68;&#x75;&#115;&#116;&#103;&#111;&#99;&#x6b;&#x40;&#x67;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
+<li>邮箱：<a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x68;&#117;&#115;&#116;&#103;&#x6f;&#x63;&#x6b;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x68;&#117;&#115;&#116;&#103;&#x6f;&#x63;&#x6b;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a></li>
 </ul>
 <hr>
 <p>感谢阅读这份帮助文档。请点击右上角，绑定印象笔记账号，开启全新的记录与分享体验吧。</p>
